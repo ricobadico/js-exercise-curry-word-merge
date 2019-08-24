@@ -1,4 +1,4 @@
-const mergeWordsVarInit = () => { //Creates initial fullSTring variable, which will end up private in inner function's closure
+const mergeWordsVarInit = () => { //Creates initial fullString variable, which will end up private in inner function's closure
     
     let fullString = "";
 
